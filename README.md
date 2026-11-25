@@ -21,6 +21,12 @@ und so lange getestet, bis er lief.
 **[caveman](https://github.com/mjlueck-hash/caveman)** — Go. Bringt Coding-Agents
 dazu, weniger zu lesen und weniger zu schreiben. Benchmark im README.
 
+## Werkzeuge
+
+**[ponytail](https://github.com/DietrichGebert/ponytail)** — Skill für Claude Code.
+Lässt den Agenten denken wie den faulsten Senior-Entwickler im Raum: der beste
+Code ist der, den man nie schreibt.
+
 ## Schreiben
 
 <!-- BLOG-POST-LIST:START -->
